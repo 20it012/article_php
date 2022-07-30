@@ -1,0 +1,5 @@
+registration page => check if email id is not already in db
+login page = when site open first page, if already registrated then login other wise = login
+homepage = author page = insert data = show list only that author inserted no one else 
+
+use sessions for this 
